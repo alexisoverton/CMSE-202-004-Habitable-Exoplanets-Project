@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 
+# Mapping star temps to colors
 color_dict = {
         40000:"blue",
         20000:"#ADD8E6",
@@ -12,7 +13,15 @@ color_dict = {
         3500:"#FF0000"
 }
 
+# Plots the system given a few inputs
 def plot_habitability(habitable_zone,semi_major,st_radius,st_temp,pl_name='unnamed exoplanet'):
+    '''
+    habitable_zone: Tuple with (inner radius, outer radius) correspodning to habitable zone
+    semi_major: Float that represents the orbital radius of the planet in AU
+    st_radius: Float with Star radius in solar radii
+    st_temp: Integer with Star temp in K
+    pl_name: String with planet name 
+    '''
     fig,ax = plt.subplots(1,1,figsize=(8,8))
     ax.set_facecolor('black')
     circle1 = plt.Circle((0,0),habitable_zone[0],color='red')
