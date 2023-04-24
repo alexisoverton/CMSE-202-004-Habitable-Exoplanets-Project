@@ -4,7 +4,7 @@
 - Open folder in jupyter notebook
 - Habitable Exoplanets.ipynb is the main notebook
 - habitable_zone_plot.py is the plotting function that visualizes systems
-- Kepler.csv 
+- Kepler.csv is the datset
 
 ### Goal
 - Approximate the amount of planets in our galaxy that are habitable. 
