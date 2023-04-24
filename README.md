@@ -4,7 +4,7 @@
 - Open folder in jupyter notebook
 - Habitable Exoplanets.ipynb is the main notebook
 - habitable_zone_plot.py is the plotting function that visualizes systems
-- Kepler.csv is the datset
+- Kepler.csv 
 
 ### Goal
 - Approximate the amount of planets in our galaxy that are habitable. 
@@ -16,7 +16,7 @@
 - Collin: Created exoplanet class and packaged all rows into exoplanet objects, also made habitable_zone_plot.py
 - Alexis: Cleaned Dataset and created arrays
 - Mickey: Made edits to exoplanet class to assist with data processing and made pie charts along with histograms at end.
-- Sydney and Emma: Made slides and made contributions to data processing
+- Sydney and Emma: Were assigned to create visualizations but others in the group completed them instead. Emma created, managed, and wrote most of the slides and made contributions to data processing.
 
 
 
