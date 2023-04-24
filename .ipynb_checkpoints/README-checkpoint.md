@@ -15,7 +15,7 @@
 ### Contributions By Team Members
 - Collin: Created exoplanet class and packaged all rows into exoplanet objects, also made habitable_zone_plot.py
 - Alexis: Cleaned Dataset and created arrays
-- Mickey: Made edits to exoplanet class, assisted with data processing, and made pie charts along with histograms at end.
+- Mickey: Made edits to exoplanet class, assisted with data processing, and made the pie charts and histograms.
 - Sydney and Emma: Were assigned to create visualizations but others in the group completed them instead. Emma created, managed, and wrote most of the slides and made contributions to data processing.
 
 
